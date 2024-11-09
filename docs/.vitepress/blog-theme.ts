@@ -28,9 +28,9 @@ const blogTheme = getThemeConfig({
   // mermaid: true
 
   home: {
-    name: 'lmasm',
-    motto: '人生不过三万天',
-    inspiring: ['xxx', 'qwqwe'],
+    name: '能否',
+    motto: '一个平平无奇的打工人',
+    inspiring: ['人生不过三万天', '开心一天是一天'],
     pageSize: 6
   },
 

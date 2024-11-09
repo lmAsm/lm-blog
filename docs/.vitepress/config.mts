@@ -17,7 +17,7 @@ export default defineConfig({
   extends: blogTheme,
   // base,
   lang: 'zh-cn',
-  title: 'lmasm',
+  title: '安否のblog ',
   description: '',
   lastUpdated: true,
   // 详见：https://vitepress.dev/zh/reference/site-config#head
