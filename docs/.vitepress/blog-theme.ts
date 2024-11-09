@@ -30,7 +30,7 @@ const blogTheme = getThemeConfig({
   home: {
     name: '能否',
     motto: '一个平平无奇的打工人',
-    inspiring: ['人生不过三万天', '开心一天是一天'],
+    inspiring: ['人生不过三万天', '开心一天是一天a'],
     pageSize: 6
   },
 
