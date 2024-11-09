@@ -37,5 +37,5 @@ jobs:
           username: ${{ secrets.SERVER_USERNAME }}
           password: ${{ secrets.SERVER_PASSWORD }}
           strip_components: 2
-          source: ".vuepress/dist/*"
-          target: /usr/local/project/lm-blog/docs/.vitepress
+          source: "docs/.vitepress/dist/*"
+          target: /usr/local/project/lm-blog/docs/.vitepress/dist
