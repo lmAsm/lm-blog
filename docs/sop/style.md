@@ -5,6 +5,7 @@ readingTime: false
 tag:
  - 配置
 recommend: 3
+sidebar: true
 ---
 
 # 样式配置

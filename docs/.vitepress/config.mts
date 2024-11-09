@@ -17,8 +17,8 @@ export default defineConfig({
   extends: blogTheme,
   // base,
   lang: 'zh-cn',
-  title: '@sugarat/theme',
-  description: '粥里有勺糖的博客主题，基于 vitepress 实现',
+  title: 'lmasm',
+  description: '',
   lastUpdated: true,
   // 详见：https://vitepress.dev/zh/reference/site-config#head
   head: [
@@ -38,7 +38,7 @@ export default defineConfig({
     lastUpdatedText: '上次更新于',
 
     // 设置logo
-    logo: '/logo.png',
+    logo: '/logo2.jpg',
     // editLink: {
     //   pattern:
     //     'https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress/:path',
@@ -46,13 +46,13 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
-      { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
+      { text: '关于作者', link: '/about' }
     ],
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/ATQQ/sugar-blog/tree/master/packages/theme'
-      }
-    ]
+        link: 'https://github.com/lmAsm'
+        }
+      ]
   }
 })
