@@ -38,4 +38,4 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           strip_components: 2
           source: "docs/.vitepress/dist/*"
-          target: /usr/local/project/lm-blog/docs/.vitepress/dist
+          target: /usr/local/project/lm-blog/docs/.vitepress/
