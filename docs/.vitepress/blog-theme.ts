@@ -40,10 +40,10 @@ const blogTheme = getThemeConfig({
     // message: '下面 的内容和图标都是可以修改的噢（当然本条内容也是可以隐藏的）',
     // version: false,
     copyright: 'MIT License',
-    // icpRecord: {
-    //   name: '蜀ICP备19011724号',
-    //   link: 'https://beian.miit.gov.cn/'
-    // },
+    icpRecord: {
+      name: '京ICP备2024094419号-2',
+      link: 'https://beian.miit.gov.cn/'
+    },
     // securityRecord: {
     //   name: '公网安备xxxxx',
     //   link: 'https://www.beian.gov.cn/portal/index.do'
