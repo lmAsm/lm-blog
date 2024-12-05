@@ -28,9 +28,9 @@ const blogTheme = getThemeConfig({
   // mermaid: true
 
   home: {
-    name: '能否',
-    motto: '一个平平无奇的打工人',
-    inspiring: ['人生不过三万天', '开心一天是一天a'],
+    name: '安否',
+    motto: '别害怕请继续向前',
+    inspiring: ['人生没有标准答案'],
     pageSize: 6
   },
 
@@ -44,10 +44,10 @@ const blogTheme = getThemeConfig({
       name: '京ICP备2024094419号-2',
       link: 'https://beian.miit.gov.cn/'
     },
-    // securityRecord: {
-    //   name: '公网安备xxxxx',
-    //   link: 'https://www.beian.gov.cn/portal/index.do'
-    // },
+    securityRecord: {
+      name: '京公网安备11011402054441号',
+      link: 'https://www.beian.gov.cn/portal/index.do'
+    },
   },
 
   // 主题色修改
