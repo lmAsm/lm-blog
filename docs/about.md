@@ -1,6 +1,6 @@
 ---
-sticky: 1
 lastUpdated: false
+hidden: true
 ---
 # 关于我
 
