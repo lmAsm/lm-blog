@@ -72,11 +72,11 @@ const blogTheme = getThemeConfig({
       url: 'https://sugarat.top',
     },
     {
-      nickname: 'Vitepress',
-      des: 'Vite & Vue Powered Static Site Generator',
+      nickname: '进击的学霸',
+      des: '代码写出来是给人看的，附带能在机器上运行。',
       avatar:
-        'https://vitepress.dev/vitepress-logo-large.webp',
-      url: 'https://vitepress.dev/',
+        'https://qny.jjdxb.top/pikaqiu.png',
+      url: 'https://blog.jjdxb.top/',
     },
   ],
 

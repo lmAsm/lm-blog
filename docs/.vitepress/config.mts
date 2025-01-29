@@ -46,6 +46,21 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
+      {
+        text: '大前端',
+        items: [
+          { text: 'javascript', link: '/item-1' },
+          { text: 'CSS相关', link: '/item-2' },
+          { text: 'vue', link: '/item-3' }
+        ]
+      },
+      { text: '工具', link: '/tools/https' },
+      {
+        text: '笔记',
+        items: [
+          { text: '年终总结', link: '/yearEndSummary/2024' },
+        ]
+      },
       { text: '关于作者', link: '/about' }
     ],
     socialLinks: [
