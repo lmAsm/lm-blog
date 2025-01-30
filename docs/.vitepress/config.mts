@@ -51,7 +51,9 @@ export default defineConfig({
         items: [
           { text: 'javascript', link: '/item-1' },
           { text: 'CSS相关', link: '/item-2' },
-          { text: 'vue', link: '/item-3' }
+          { text: 'vue', link: '/item-3' },
+          { text: 'node', link: '/item-4' },
+          { text: 'web', link: '/front/SSE' }
         ]
       },
       { text: '工具', link: '/tools/https' },
